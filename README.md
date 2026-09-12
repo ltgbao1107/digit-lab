@@ -4,8 +4,6 @@
 
 A beginner machine learning experiment: recognize handwritten digits, inspect mistakes, and test what happens when the pixels become noisy.
 
-**Status:** runnable AI-assisted starter, with recorded outputs. The initial implementation, explanations, and execution were prepared with ChatGPT. Personal follow-up experiments are not yet completed.
-
 ![Examples of handwritten digits](results/samples.png)
 
 ## Research question
